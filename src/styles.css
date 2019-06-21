@@ -1,0 +1,33 @@
+body {
+  background-image: url('assets/grass.jpg');
+}
+
+input {
+  display: block;
+  margin: auto;
+}
+
+input[type=radio] {
+  display: inline;
+}
+
+input[type=checkbox] {
+  display: inline;
+}
+
+fieldset {
+  margin-bottom: 2rem
+}
+
+form {
+  text-align: center
+}
+
+select {
+  margin: auto;
+  display: block
+}
+
+.note {
+  font-size: 0.75rem
+}
